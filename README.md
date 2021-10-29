@@ -4,5 +4,4 @@ This is a console based chat application. Spin up the server and invite your fri
 
 You can host the application in a ngrok `tcp` tunnel. It will redirect all requests made to that ip to your machine.
 
-To connect simply, enter the server `ip` and `port`
-
+To connect simply, enter the server `ip` and `port`.
